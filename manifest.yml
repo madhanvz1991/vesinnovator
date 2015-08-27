@@ -3,3 +3,4 @@ applications:
   memory: 512M
   host: vecinnovators
   path: target/vecinnovators-1.0.war
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
