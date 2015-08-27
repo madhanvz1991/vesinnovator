@@ -1,0 +1,5 @@
+applications:
+- name: vecinnovators
+  memory: 512M
+  host: vecinnovators
+  path: target/vecinnovators-1.0.war
