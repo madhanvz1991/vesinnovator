@@ -2,5 +2,5 @@ applications:
 - name: vecinnovators
   memory: 512M
   host: vecinnovators
-  path: target/EventManagement-1.0.war
+  path: target/eventmanagement.war
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
